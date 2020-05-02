@@ -1,0 +1,24 @@
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csprojAssemblyReference.cache
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.exe
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\Xuan Thong\source\repos\TESTING\StudentManager\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.genruntimeconfig.cache
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.exe
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.deps.json
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.json
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.runtimeconfig.dev.json
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\Tee\Desktop\Thin-master\StudentManager\bin\Debug\netcoreapp3.1\StudentManager.pdb
+C:\Users\Tee\Desktop\Thin-master\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.csprojAssemblyReference.cache
+C:\Users\Tee\Desktop\Thin-master\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfoInputs.cache
+C:\Users\Tee\Desktop\Thin-master\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.AssemblyInfo.cs
+C:\Users\Tee\Desktop\Thin-master\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.dll
+C:\Users\Tee\Desktop\Thin-master\StudentManager\obj\Debug\netcoreapp3.1\StudentManager.pdb
